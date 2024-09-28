@@ -1,7 +1,7 @@
 # CRUD-JWT-MongoDB
 Backend CRUD-JWT-MongoDB
 
-## Mine Objective is to understand Backend with JWT login and include simple todos and fetch authorized person to see their and fetch data
+## Main Objective is to understand backend with JWT login and include simple todos and fetch authorized person to see their and fetch data
 
 # Technologies and libraries used
 
