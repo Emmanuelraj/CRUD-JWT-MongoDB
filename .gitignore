@@ -1,0 +1,36 @@
+# Node modules
+/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Build and Temp Files
+/dist
+/build
+/tmp
+/out
+
+# Coverage reports
+/coverage
+
+# IDE and Editor-specific files
+.vscode/
+*.swp
+*.swo
+
+# Optional: package lock files
+package-lock.json
+# yarn.lock
