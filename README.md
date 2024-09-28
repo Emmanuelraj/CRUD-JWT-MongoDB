@@ -10,9 +10,11 @@ Backend CRUD-JWT-MongoDB
  3) JWT
  4) Mongoose library(Schema-less)
  5) dotenv
+ 6) Hashing (bcrypt and salt)
  
 # best practices
   1) Ignored node_modules
   2) Followed stateless function backend
+  3) not storing password plain text 
 
 Feel free to clone and make changes based on your requirements
