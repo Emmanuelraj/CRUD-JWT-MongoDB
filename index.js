@@ -13,7 +13,7 @@ app.use('/api/v1/todos', todosRouter);
 
 
 async function main(){
-  await mongoose.connect(process.env.MONGo_URL);
+  await mongoose.connect(process.env.MONGO_URL);
   app.listen(3000);
 }
 
