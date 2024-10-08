@@ -3,8 +3,9 @@ const { Router } = require("express");
 const jsonwebtoken = require("jsonwebtoken");
 const { UserModel } = require("../db/db");
 const  {userExistMiddleWare, authMiddleware}= require('../middlewares/AuthMiddleware'); 
-require('dotenv').config();
 const userRouter = Router();
+
+require('dotenv').config();
 
 
 
